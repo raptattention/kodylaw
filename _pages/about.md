@@ -19,8 +19,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello there!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My name is Kody Law, a dedicated and passionate sixth-year Finance PhD student from the renowned Johnson School of Management at Cornell University. I specialize in the dynamic and rapidly-evolving fields of fintech, financial intermediation, and entrepreneurship, all with a sharp focus on their impacts on everyday households.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research work aims to explore and dissect the critical influences of groundbreaking trends in the finance industry. My objective is to shed light on the ways fintech and the ascendance of institutional investors are reshaping the financial landscape and how these changes directly impact the financial welfare of ordinary individuals.
+
+In my research, I bring a multi-faceted approach that draws on both traditional financial theories and contemporary industry practices. This has allowed me to delve into complex and significant problems, providing actionable insights for the broader finance community. I am keen on fostering an informed understanding of the finance industry's current and future dynamics, helping to ensure that these developments lead to a more equitable and prosperous society.
+
+While my love for research is unshakeable, I maintain a balance in my life through a rich array of hobbies. When I'm not poring over financial data or delving into new research, I can be found in the kitchen, testing new recipes and honing my culinary skills. Music also plays an essential role in my life, serving both as a source of relaxation and an outlet for creative expression.
+
+I am currently on the job market and looking forward to sharing my knowledge and research experience with a like-minded organization committed to pushing the boundaries of finance. Feel free to reach out if you would like to discuss potential opportunities or simply share thoughts on finace, or the latest recipe that's won over your taste buds!
