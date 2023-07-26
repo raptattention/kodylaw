@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.johnson.cornell.edu/programs/phd-program/current-students/kcl87/'>Cornell</a> Finance PhD. <a href = "mailto:kcl87@cornell.edu">kcl87@cornell.edu</a>.
 
 profile:
   align: right
