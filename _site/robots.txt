@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://raptattention.github.io/sitemap.xml
