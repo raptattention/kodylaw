@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Kody Law",
+    "label": "Finance Ph.D",
+    "image": "",
+    "email": "kcl87@cornell.edu",
+    "phone": "(510) 310-1940",
+    "url": "https://raptattention.github.io/",
+    "summary": "6th year finance Ph.D student from Cornell University. Research interests focused on fintech, financial intermediation, and entrepreneurship. Strong background in data analytics, including machine learning.",
+    "location": {
+      "address": "301B-O Sage Hall",
+      "postalCode": "NY 14853",
+      "city": "New York",
+      "countryCode": "US",
+      "region": "New York"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Kody Chinon Law",
+        "url": "https://www.linkedin.com/in/kody-chinon-law/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Ties",
+      "position": "Data Scientist",
+      "startDate": "10-15-2015",
+      "endDate": "02-01-2017",
+      "summary": "Built the backend API and recommendation engine for the first of the company’s core products, and launched with 40,000 users in the first week.",
+      "highlights": [
+        "Raised average monthly revenue by 30%"
+      ]
+    },
+    {
+      "name": "Credit Agricole",
+      "position": "Analyst",
+      "startDate": "01-10-2015",
+      "endDate": "06-16-2015",
+      "summary": "Analyzed companies, performed financial modeling and valuations, and assisted with marketing and client work."
+    },
+    {
+      "name": "Squire Patton Boggs",
+      "position": "Data Analyst Intern",
+      "startDate": "05-10-2013",
+      "endDate": "08-15-2013",
+      "summary": "Performed statistical research to identify factors affecting IP infringement rates for advising the international law firm’s clients."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Johnson School of Management, Cornell University | Ithaca, NY",
+      "url": "https://www.johnson.cornell.edu/",
+      "area": "Finance",
+      "studyType": "PhD",
+      "startDate": "08-03-2018",
+      "endDate": "05-31-2024"
+    },
+    {
+      "institution": "Rady School of Management, UCSD | San Diego, CA",
+      "url": "https://rady.ucsd.edu/",
+      "area": "Business analytics",
+      "studyType": "Masters",
+      "startDate": "08-01-2017",
+      "endDate": "08-01-2018"
+    },
+    {
+      "institution": "University of California, Berkeley | Berkeley, CA",
+      "url": "https://www.berkeley.edu/",
+      "area": "Economics and Statistics",
+      "studyType": "Bachelors",
+      "startDate": "08-01-2011",
+      "endDate": "12-31-2014"
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Cantonese",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
