@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://raptattention.github.io/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/cv/</loc>
+<loc>https://raptattention.github.io/cv/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/_pages/dropdown/</loc>
+<loc>https://raptattention.github.io/_pages/dropdown/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/news/</loc>
+<loc>https://raptattention.github.io/news/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/projects/</loc>
+<loc>https://raptattention.github.io/projects/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/research/</loc>
+<loc>https://raptattention.github.io/research/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/repositories/</loc>
+<loc>https://raptattention.github.io/repositories/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/teaching/</loc>
+<loc>https://raptattention.github.io/teaching/</loc>
 </url>
 </urlset>
