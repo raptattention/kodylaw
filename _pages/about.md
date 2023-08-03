@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello there!
 
-My name is Kody Law, a dedicated and passionate sixth-year Finance PhD student from the renowned Johnson School of Management at Cornell University. I specialize in the dynamic and rapidly-evolving fields of fintech, financial intermediation, and entrepreneurship, all with a sharp focus on their impacts on everyday households.
+My name is Kody Law, a dedicated and passionate Finance PhD student from Johnson School of Management at Cornell University. I specialize in the dynamic and rapidly-evolving fields of fintech, financial intermediation, and entrepreneurship, all with a sharp focus on their impacts on everyday households.
 
 My research work aims to explore and dissect the critical influences of groundbreaking trends in the finance industry. My objective is to shed light on the ways fintech and the ascendance of institutional investors are reshaping the financial landscape and how these changes directly impact the financial welfare of ordinary individuals.
 
