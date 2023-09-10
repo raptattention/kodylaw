@@ -6,7 +6,7 @@ subtitle: <a href='https://www.johnson.cornell.edu/programs/phd-program/current-
 
 profile:
   align: right
-  image: prof_pic_1.jpg
+  image: prof_pic_2.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>301B-0 Sage Hall</p>
@@ -21,10 +21,10 @@ social: true  # includes social icons at the bottom of the page
 
 Hello there!
 
-My name is Kody Law, a dedicated and passionate Finance PhD student from Johnson School of Management at Cornell University. I specialize in the dynamic and rapidly-evolving fields of fintech, financial intermediation, and entrepreneurship, all with a sharp focus on their impacts on everyday households.
+My name is Kody Law, a Finance PhD student from Johnson School of Management at Cornell University. I specialize in the fields of fintech, financial intermediation, and entrepreneurship, all with a sharp focus on their impacts on everyday households.
 
 My research work aims to explore and dissect the critical influences of groundbreaking trends in the finance industry. My objective is to shed light on the ways fintech and the ascendance of institutional investors are reshaping the financial landscape and how these changes directly impact the financial welfare of ordinary individuals.
 
 In my research, I bring a multi-faceted approach that draws on both traditional financial theories and contemporary industry practices. This has allowed me to delve into complex and significant problems, providing actionable insights for the broader finance community. I am keen on fostering an informed understanding of the finance industry's current and future dynamics, helping to ensure that these developments lead to a more equitable and prosperous society.
 
-I am currently on the job market and looking forward to sharing my knowledge and research experience with a like-minded organization committed to pushing the boundaries of finance. Feel free to reach out if you would like to discuss potential opportunities or simply share thoughts on finance.
+I am currently on the job market and welcome your thoughts on employment opportunities or simply on finance.
